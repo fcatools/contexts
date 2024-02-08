@@ -9,5 +9,9 @@ Formal Concept Analysis.
   - language: German / English
   - description: methods of murder in Miss Marple novels (not short stories!)
 
-More contexts can be found in the [ConExp-CLJ
+Further ideas for contexts:
+- More contexts can be found in the [ConExp-CLJ
 repository](https://github.com/tomhanika/conexp-clj/tree/dev/testing-data).
+- Fahrzeuge/Getriebe (aus Schlag nach!)
+- Gewässer (aus dem FCA-Buch)
+- Fuchs-Gewürzplaner
