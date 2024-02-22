@@ -1,7 +1,7 @@
 ---
 missmarple_de.ctx:
     - title: Mordmethoden in Miss-Marple-Romanen
-    - source: Ben Schott (2004). Schotts Sammelsurium. Bloomsbury Berlin
+    - source: Schott, Ben (2004). Schotts Sammelsurium. Bloomsbury, Berlin
     - size:
         - objects: 12
         - attributes: 6
@@ -10,7 +10,7 @@ missmarple_de.ctx:
 
 gewaesser_de.ctx:
     - title: Gewässer
-    - source: Wille, Rudolf (1984). Liniendiagramme hierarchischer Begriffssysteme. Studien zur Klassifikation. Indeks Verlag.
+    - source: Wille, Rudolf (1984). Liniendiagramme hierarchischer Begriffssysteme. Studien zur Klassifikation. Indeks Verlag
     - size:
          - objects: 8
          - attributes: 6
@@ -19,7 +19,7 @@ gewaesser_de.ctx:
 
 gewuerzplaner_de.ctx:
     - title: Gewürzplaner
-    - source: Fuchs Gewürzplaner
+    - source: "Mahn, M. (2014). Gewürze: Das Standardwerk. Christian Verlag GmbH, München"
     - size:
         - objects: 56
         - attributes: 37

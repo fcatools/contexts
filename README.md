@@ -4,18 +4,18 @@ This repository contains a collection of formal contexts to pursue
 [Formal Concept Analysis](https://upriss.github.io/fca/fca.html).
 
 - [Mordmethoden in Miss-Marple-Romanen](contexts/missmarple_de.ctx)
-  - source: Ben Schott (2004). Schotts Sammelsurium. Bloomsbury Berlin
+  - source: Schott, Ben (2004). Schotts Sammelsurium. Bloomsbury, Berlin
   - size: 12 objects, 6 attributes
   - language: German / English
   - description: methods of murder in Miss Marple novels (not short stories!)
 - [Gewässer](contexts/gewaesser_de.ctx)
   - source: Wille, Rudolf (1984). Liniendiagramme hierarchischer
-    Begriffssysteme. Studien zur Klassifikation. Indeks Verlag.
+    Begriffssysteme. Studien zur Klassifikation. Indeks Verlag
   - size: 8 objects, 6 attributes
   - language: German
   - description: bodies of water and their properties
 - [Gewürzplaner](contexts/gewuerzplaner_de.ctx)
-  - source: Fuchs Gewürzplaner
+  - source: Mahn, M. (2014). Gewürze: Das Standardwerk. Christian Verlag GmbH, München
   - size: 56 objects, 37 attributes
   - language: German
   - descriptions: spices and herbs together and the meals they match
