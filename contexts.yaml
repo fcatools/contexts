@@ -1,0 +1,18 @@
+---
+missmarple_de.ctx:
+    - title: Mordmethoden in Miss-Marple-Romanen
+    - source: Ben Schott (2004). Schotts Sammelsurium. Bloomsbury Berlin
+    - size:
+        - objects: 12
+        - attributes: 6
+    - language: German / English
+    - description: methods of murder in Miss Marple novels (not short stories!)
+
+gewaesser_de.ctx:
+    - title: Gewässer
+    - source: Wille, Rudolf (1984). Liniendiagramme hierarchischer Begriffssysteme. Studien zur Klassifikation. Indeks Verlag.
+    - size:
+         - objects: 8
+         - attributes: 6
+    - language: German
+    - description: bodies of water and their properties

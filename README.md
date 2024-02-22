@@ -13,7 +13,7 @@ This repository contains a collection of formal contexts to pursue
     Begriffssysteme. Studien zur Klassifikation. Indeks Verlag.
   - size: 8 objects, 6 attributes
   - language: German
-  - description bodies of water and their properties
+  - description: bodies of water and their properties
 
 Further ideas for contexts:
 - More contexts can be found in the [ConExp-CLJ
