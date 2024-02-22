@@ -14,6 +14,11 @@ This repository contains a collection of formal contexts to pursue
   - size: 8 objects, 6 attributes
   - language: German
   - description: bodies of water and their properties
+- [Gewürzplaner](contexts/gewuerzplaner_de.ctx)
+  - source: Fuchs Gewürzplaner
+  - size: 56 objects, 37 attributes
+  - language: German
+  - descriptions: spices and herbs together and the meals they match
 
 The two example contexts are also described in [this YAML file](contexts.yaml).
 

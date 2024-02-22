@@ -16,3 +16,12 @@ gewaesser_de.ctx:
          - attributes: 6
     - language: German
     - description: bodies of water and their properties
+
+gewuerzplaner_de.ctx:
+    - title: Gewürzplaner
+    - source: Fuchs Gewürzplaner
+    - size:
+        - objects: 56
+        - attributes: 37
+    - language: German
+    - descriptions: spices and herbs together and the meals they match
