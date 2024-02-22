@@ -15,6 +15,8 @@ This repository contains a collection of formal contexts to pursue
   - language: German
   - description: bodies of water and their properties
 
+The two example contexts are also described in [this YAML file](contexts.yaml).
+
 Further ideas for contexts:
 - More contexts can be found in the [ConExp-CLJ
 repository](https://github.com/tomhanika/conexp-clj/tree/dev/testing-data)
