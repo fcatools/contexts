@@ -29,3 +29,38 @@ and on [Uta Priss' page](https://upriss.github.io/fca/examples.html).
 - Fahrzeuge/Getriebe (aus Schlag nach!)
 - Gewässer (aus dem FCA-Buch)
 - Fuchs-Gewürzplaner
+
+## How to use the contexts
+
+You can either manually download contexts or you can access them
+directly in your program code with a URL generated as follows: append
+the file name of the context (e.g., `gewaesser_de.ctx`) to the prefix
+`https://raw.githubusercontent.com/fcatools/contexts/contexts/`. For
+example, in Python 3 you could do:
+
+```python
+
+```
+
+## How to contribute contexts
+
+Additional formal contexts are highly welcome if they fulfil the
+following criteria:
+
+1. They should be about real things and not contain invented or random
+   data.
+2. They should preferrably be small, that is, have not too many
+   attributes and objects (each less than 100).
+
+If you think your context is suitable, then proceed as follows:
+
+1. [Fork this repository](/fcatools/contexts/fork) and make the
+   following changes in your fork:
+   1. Add your CXT file to the [contexts](contexts) directory, using a
+      meaningful name (all lowercase, with two letters indicating the
+      ISO language code at the end, e.g., `gewaesser_de.ctx` for the
+      German bodies of water context).
+   2. Describe your context in [contexts.yaml](contexts.yaml) following
+      the example of the other contexts. Try to be concise and precise.
+2. Make a pull request to merge your changes into the main
+   repository.
