@@ -59,10 +59,10 @@ If you think your context is suitable, then proceed as follows:
 
 1. [Fork this repository](/fcatools/contexts/fork) and make the
    following changes in your fork:
-   1. Add your CXT file to the [contexts](contexts) directory, using a
-      meaningful name (all lowercase, with two letters indicating the
-      ISO language code at the end, e.g., `gewaesser_de.ctx` for the
-      German bodies of water context).
+   1. Add your ASCII-encoded CXT file to the [contexts](contexts)
+      directory, using a meaningful name (all lowercase, with two
+      letters indicating the ISO language code at the end, e.g.,
+      `gewaesser_de.ctx` for the German bodies of water context).
    2. Describe your context in [contexts.yaml](contexts.yaml) following
       the example of the other contexts. Try to be concise and precise.
 2. Make a pull request to merge your changes into the main
