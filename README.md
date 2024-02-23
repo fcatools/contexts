@@ -22,13 +22,9 @@ This repository contains a collection of formal contexts to pursue
 
 The two example contexts are also described in [this YAML file](contexts.yaml).
 
-Further ideas for contexts:
-- More contexts can be found in the [ConExp-CLJ
+More contexts can be found in the [ConExp-CLJ
 repository](https://github.com/tomhanika/conexp-clj/tree/dev/testing-data)
 and on [Uta Priss' page](https://upriss.github.io/fca/examples.html).
-- Fahrzeuge/Getriebe (aus Schlag nach!)
-- Gewässer (aus dem FCA-Buch)
-- Fuchs-Gewürzplaner
 
 ## How to use the contexts
 
@@ -65,5 +61,5 @@ If you think your context is suitable, then proceed as follows:
       `gewaesser_de.ctx` for the German bodies of water context).
    2. Describe your context in [contexts.yaml](contexts.yaml) following
       the example of the other contexts. Try to be concise and precise.
-2. Make a pull request to merge your changes into the main
+2. Make a pull request to merge your changes into the this
    repository.
