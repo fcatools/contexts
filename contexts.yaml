@@ -34,3 +34,12 @@ tealady.ctx:
         - attributes: 14
     - language: /
     - descriptions: Participation of social events by some ladies in Old City 
+
+Living_Beings_and_Water.ctx:
+    - title: Living Beings and Water
+    - source: "Ganter, B. & Wille, R. (1999). Formal Concept analysis. In Springer eBooks. https://doi.org/10.1007/978-3-642-59830-2 (S.18)"
+    - size:
+        - objects: 8
+        - attributes: 9
+    - language: English
+    - descriptions: conditions different living beings need
