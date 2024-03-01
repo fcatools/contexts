@@ -1,5 +1,5 @@
 ---
-missmarple_de.ctx:
+missmarple_de.cxt:
     - title: Mordmethoden in Miss-Marple-Romanen
     - source: "Schott, Ben (2004). Schotts Sammelsurium. Bloomsbury, Berlin"
     - size:
@@ -8,7 +8,7 @@ missmarple_de.ctx:
     - language: German / English
     - description: methods of murder in Miss Marple novels (not short stories!)
 
-gewaesser_de.ctx:
+gewaesser_de.cxt:
     - title: Gewässer
     - source: "Wille, Rudolf (1984). Liniendiagramme hierarchischer Begriffssysteme. Studien zur Klassifikation. Indeks Verlag"
     - size:
@@ -17,7 +17,7 @@ gewaesser_de.ctx:
     - language: German
     - description: bodies of water and their properties
 
-gewuerzplaner_de.ctx:
+gewuerzplaner_de.cxt:
     - title: Gewürzplaner
     - source: "Mahn, M. (2014). Gewürze: Das Standardwerk. Christian Verlag GmbH, München"
     - size:
@@ -26,18 +26,18 @@ gewuerzplaner_de.ctx:
     - language: German
     - descriptions: spices and herbs together and the meals they match
 
-tealady.ctx:
+tealady.cxt:
     - title: Tea Ladies
-    - source: "Wille, Rudolf (1992). Concept Lattices and Conceptual Knowledge Systems. Computers Math. Applic., 23, 6-9, p 493-515. "
+    - source: "Wille, Rudolf (1992). Concept Lattices and Conceptual Knowledge Systems. Computers & Mathematics with Applications, 23, 6-9, p. 493-515"
     - size:
         - objects: 18
         - attributes: 14
     - language: /
-    - descriptions: Participation of social events by some ladies in Old City 
+    - descriptions: Participation of social events by some ladies in Old City
 
-living_beings_and_water.ctx:
+living_beings_and_water.cxt:
     - title: Living Beings and Water
-    - source: "Ganter, B. & Wille, R. (1999). Formal Concept analysis. In Springer eBooks. https://doi.org/10.1007/978-3-642-59830-2 (S.18)"
+    - source: "Ganter, Bernhard & Wille, Rudolf (1999). Formal Concept analysis. Springer, p. 18"
     - size:
         - objects: 8
         - attributes: 9

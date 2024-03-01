@@ -3,28 +3,13 @@
 This repository contains a collection of formal contexts to pursue
 [Formal Concept Analysis](https://upriss.github.io/fca/fca.html).
 
-- [Mordmethoden in Miss-Marple-Romanen](contexts/missmarple_de.cxt)
-  - source: Schott, Ben (2004). Schotts Sammelsurium. Bloomsbury, Berlin
-  - size: 12 objects, 6 attributes
-  - language: German / English
-  - description: methods of murder in Miss Marple novels (not short stories!)
-- [Gewässer](contexts/gewaesser_de.cxt)
-  - source: Wille, Rudolf (1984). Liniendiagramme hierarchischer
-    Begriffssysteme. Studien zur Klassifikation. Indeks Verlag
-  - size: 8 objects, 6 attributes
-  - language: German
-  - description: bodies of water and their properties
-- [Gewürzplaner](contexts/gewuerzplaner_de.cxt)
-  - source: Mahn, M. (2014). Gewürze: Das Standardwerk. Christian Verlag GmbH, München
-  - size: 56 objects, 37 attributes
-  - language: German
-  - descriptions: spices and herbs together and the meals they match
+The metadata for the contexts is contained in [this YAML file](contexts.yaml).
 
-The two example contexts are also described in [this YAML file](contexts.yaml).
-
-More contexts can be found in the [ConExp-CLJ
-repository](https://github.com/tomhanika/conexp-clj/tree/dev/testing-data)
-and on [Uta Priss' page](https://upriss.github.io/fca/examples.html).
+More contexts can be found in the repository for
+[ConExp-CLJ](https://github.com/tomhanika/conexp-clj/tree/dev/testing-data),
+the repository for the [concepts Python
+module](https://github.com/xflr6/concepts/tree/master/examples), and
+on [Uta Priss' page](https://upriss.github.io/fca/examples.html).
 
 ## How to use the contexts
 
