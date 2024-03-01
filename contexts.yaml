@@ -24,7 +24,7 @@ gewuerzplaner_de.cxt:
     - objects: 56
     - attributes: 37
   - language: German
-  - descriptions: spices and herbs together and the meals they match
+  - description: spices and herbs together and the meals they match
 
 tealady.cxt:
   - title: Tea Ladies
@@ -33,7 +33,7 @@ tealady.cxt:
     - objects: 18
     - attributes: 14
   - language: /
-  - descriptions: Participation of social events by some ladies in Old City
+  - description: Participation of social events by some ladies in Old City
 
 livingbeings_en.cxt:
   - title: Living Beings and Water
@@ -42,7 +42,7 @@ livingbeings_en.cxt:
     - objects: 8
     - attributes: 9
   - language: English
-  - descriptions: conditions different living beings need
+  - description: conditions different living beings need
 
 officesupplies_en.cxt:
   - title: Office Supplies
@@ -51,4 +51,14 @@ officesupplies_en.cxt:
     - objects: 8
     - attributes: 5
   - language: English
-  - descriptions: Service offers of an office supplies business
+  - description: Service offers of an office supplies business
+
+driveconcepts_en.cxt:
+  - title: Drive Concepts
+  - source: "Ganter, Bernhard & Wille, Rudolf (1999). Formal Concept analysis. Springer, p. 39"
+  - size:
+    - objects: 5
+    - attributes: 25
+  - language: English
+  - description: Drive concepts for motorcars
+  - note: "Derived from a table on page 402 in the book Schlag nach! 100000 Tatsachen aus allen Wissensgebieten. 13. Auflage. Meyers Lexikonverlag, 1988"
