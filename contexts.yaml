@@ -7,9 +7,9 @@ bodiesofwater_en.cxt:
     - attributes: 6
   - language: English
   - description: bodies of water and their properties
-  - note: English version of gewaesser_de.cxt
+  - note: English version of bodiesofwater_de.cxt
 
-gewaesser_de.cxt:
+bodiesofwater_de.cxt:
   - title: Gewässer
   - source: "Wille, Rudolf (1984). Liniendiagramme hierarchischer Begriffssysteme. Studien zur Klassifikation. Indeks Verlag"
   - size:
@@ -28,7 +28,7 @@ driveconcepts_en.cxt:
   - description: Drive concepts for motorcars
   - note: "Derived from a table on page 402 in the book Schlag nach! 100000 Tatsachen aus allen Wissensgebieten. 13. Auflage. Meyers Lexikonverlag, 1988"
 
-gewuerzplaner_de.cxt:
+seasoningplanner_de.cxt:
   - title: Gewürzplaner
   - source: "Mahn, M. (2014). Gewürze: Das Standardwerk. Christian Verlag GmbH, München"
   - size:
