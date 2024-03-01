@@ -1,13 +1,4 @@
 ---
-missmarple_de.cxt:
-  - title: Mordmethoden in Miss-Marple-Romanen
-  - source: "Schott, Ben (2004). Schotts Sammelsurium. Bloomsbury, Berlin"
-  - size:
-    - objects: 12
-    - attributes: 6
-  - language: German / English
-  - description: methods of murder in Miss Marple novels (not short stories!)
-
 gewaesser_de.cxt:
   - title: Gewässer
   - source: "Wille, Rudolf (1984). Liniendiagramme hierarchischer Begriffssysteme. Studien zur Klassifikation. Indeks Verlag"
@@ -16,42 +7,6 @@ gewaesser_de.cxt:
     - attributes: 6
   - language: German
   - description: bodies of water and their properties
-
-gewuerzplaner_de.cxt:
-  - title: Gewürzplaner
-  - source: "Mahn, M. (2014). Gewürze: Das Standardwerk. Christian Verlag GmbH, München"
-  - size:
-    - objects: 56
-    - attributes: 37
-  - language: German
-  - description: spices and herbs together and the meals they match
-
-tealady.cxt:
-  - title: Tea Ladies
-  - source: "Wille, Rudolf (1992). Concept Lattices and Conceptual Knowledge Systems. Computers & Mathematics with Applications, 23, 6-9, p. 493-515"
-  - size:
-    - objects: 18
-    - attributes: 14
-  - language: /
-  - description: Participation of social events by some ladies in Old City
-
-livingbeings_en.cxt:
-  - title: Living Beings and Water
-  - source: "Ganter, Bernhard & Wille, Rudolf (1999). Formal Concept analysis. Springer, p. 18"
-  - size:
-    - objects: 8
-    - attributes: 9
-  - language: English
-  - description: conditions different living beings need
-
-officesupplies_en.cxt:
-  - title: Office Supplies
-  - source: "Ganter, Bernhard & Wille, Rudolf (1999). Formal Concept analysis. Springer, p. 25"
-  - size:
-    - objects: 8
-    - attributes: 5
-  - language: English
-  - description: Service offers of an office supplies business
 
 driveconcepts_en.cxt:
   - title: Drive Concepts
@@ -62,3 +17,48 @@ driveconcepts_en.cxt:
   - language: English
   - description: Drive concepts for motorcars
   - note: "Derived from a table on page 402 in the book Schlag nach! 100000 Tatsachen aus allen Wissensgebieten. 13. Auflage. Meyers Lexikonverlag, 1988"
+
+gewuerzplaner_de.cxt:
+  - title: Gewürzplaner
+  - source: "Mahn, M. (2014). Gewürze: Das Standardwerk. Christian Verlag GmbH, München"
+  - size:
+    - objects: 56
+    - attributes: 37
+  - language: German
+  - description: spices and herbs together and the meals they match
+
+livingbeings_en.cxt:
+  - title: Living Beings and Water
+  - source: "Ganter, Bernhard & Wille, Rudolf (1999). Formal Concept analysis. Springer, p. 18"
+  - size:
+    - objects: 8
+    - attributes: 9
+  - language: English
+  - description: conditions different living beings need
+
+missmarple_de.cxt:
+  - title: Mordmethoden in Miss-Marple-Romanen
+  - source: "Schott, Ben (2004). Schotts Sammelsurium. Bloomsbury, Berlin"
+  - size:
+    - objects: 12
+    - attributes: 6
+  - language: German / English
+  - description: methods of murder in Miss Marple novels (not short stories!)
+
+officesupplies_en.cxt:
+  - title: Office Supplies
+  - source: "Ganter, Bernhard & Wille, Rudolf (1999). Formal Concept analysis. Springer, p. 25"
+  - size:
+    - objects: 8
+    - attributes: 5
+  - language: English
+  - description: Service offers of an office supplies business
+
+tealady.cxt:
+  - title: Tea Ladies
+  - source: "Wille, Rudolf (1992). Concept Lattices and Conceptual Knowledge Systems. Computers & Mathematics with Applications, 23, 6-9, p. 493-515"
+  - size:
+    - objects: 18
+    - attributes: 14
+  - language: /
+  - description: Participation of social events by some ladies in Old City
