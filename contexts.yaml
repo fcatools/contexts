@@ -1,4 +1,14 @@
 ---
+bodiesofwater_en.cxt:
+  - title: Bodies of water
+  - source: "Wille, Rudolf (1984). Liniendiagramme hierarchischer Begriffssysteme. Studien zur Klassifikation. Indeks Verlag"
+  - size:
+    - objects: 8
+    - attributes: 6
+  - language: English
+  - description: bodies of water and their properties
+  - note: English version of gewaesser_de.cxt
+
 gewaesser_de.cxt:
   - title: Gewässer
   - source: "Wille, Rudolf (1984). Liniendiagramme hierarchischer Begriffssysteme. Studien zur Klassifikation. Indeks Verlag"
