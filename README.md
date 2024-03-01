@@ -15,14 +15,14 @@ on [Uta Priss' page](https://upriss.github.io/fca/examples.html).
 
 You can either manually download contexts or you can access them
 directly in your program code with a URL generated as follows: append
-the file name of the context (e.g., `gewaesser_de.cxt`) to the prefix
-`https://github.com/fcatools/contexts/raw/main/contexts/`. For
+the file name of the context (e.g., `livingbeings_en.cxt`) to the
+prefix `https://github.com/fcatools/contexts/raw/main/contexts/`. For
 example, in Python 3 you could do:
 
 ```python
 import urllib.request
 
-url = "https://github.com/fcatools/contexts/raw/main/contexts/gewaesser_de.cxt"
+url = "https://github.com/fcatools/contexts/raw/main/contexts/livingbeings_en.cxt"
 context = urllib.request.urlopen(url).read().decode()
 ```
 
