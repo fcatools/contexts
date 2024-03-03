@@ -72,3 +72,13 @@ tealady.cxt:
     - attributes: 14
   - language: /
   - description: Participation of social events by some ladies in Old City
+
+famousanimals.cxt:
+  - title: Famous Animals
+  - source: "Priss, U. (2006), Formal concept analysis in information science. Ann. Rev. Info. Sci. Tech., 40: 521-543. https://doi.org/10.1002/aris.1440400120"
+  - size: 
+    - objects: 5
+    - attributes: 6
+  - language: English
+  - description: description of famous animals 
+  
