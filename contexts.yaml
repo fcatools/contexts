@@ -150,3 +150,30 @@ tealady.cxt:
     - attributes: 14
   - language: /
   - description: Participation of social events by some ladies in Old City
+
+famousanimals_en.cxt:
+  - title: Famous Animals
+  - source: "Priss, U. (2006), Formal concept analysis in information science. Ann. Rev. Info. Sci. Tech., 40: 521-543. https://doi.org/10.1002/aris.1440400120"
+  - size: 
+    - objects: 5
+    - attributes: 6
+  - language: English
+  - description: Description of famous animals 
+
+newzealand_en.cxt:
+  - title: New Zealand Leasure
+  - source: "DK Eyewitness Travel Guide New Zealand. Dorling Kindersley Publishing Inc. 2001."
+  - size:
+    - objects: 13
+    - attributes: 8
+  - language: English
+  - description: Places in New Zealand and offered activities
+  
+animals_en.cxt:
+  - title: animals
+  - source: "A. Pogel, T. Hanan, L. Miller: Visualization of concept lattices using weight functions. In: H. D. Pfeiffer, K. E. Wolff, H. S. Delugach (eds.): Conceptual structures at work. Shaker Verlag, Aachen 2004, 1–14."
+  - size:
+    - objects: 35
+    - attributes: 11
+  - language: English
+  - description: Attributes different animals have
