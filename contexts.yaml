@@ -16,7 +16,6 @@ bodiesofwater_en.cxt:
     - attributes: 6
   - language: English
   - description: bodies of water and their properties
-  - note: English version of bodiesofwater_de.cxt
 
 bodiesofwater_de.cxt:
   - title: Gewässer
@@ -26,6 +25,7 @@ bodiesofwater_de.cxt:
     - attributes: 6
   - language: German
   - description: bodies of water and their properties
+  - note: German version of bodiesofwater_en.cxt
 
 driveconcepts_en.cxt:
   - title: Drive Concepts
@@ -34,37 +34,27 @@ driveconcepts_en.cxt:
     - objects: 5
     - attributes: 25
   - language: English
-  - description: Drive concepts for motorcars
+  - description: drive concepts for motorcars
   - note: "Derived from a table on page 402 in the book Schlag nach! 100000 Tatsachen aus allen Wissensgebieten. 13. Auflage. Meyers Lexikonverlag, 1988"
 
 driveconcepts_de.cxt:
   - title: Drive Concepts
-  - source: "Ganter, B., & Wille, R. (1996). Formale Begriffsanalyse. Springer. https://doi.org/10.1007/978-3-642-61450-7, p. 39"
+  - source: "Ganter, B., & Wille, R. (1996). Formale Begriffsanalyse. Springer. p. 39"
   - size:
     - objects: 5
     - attributes: 25
   - language: German
-  - description: Drive concepts for motorcars
+  - description: drive concepts for motorcars
   - note: German version of driveconcepts_en.cxt
 
 famous_animals_en.cxt:
   - title: Famous Animals
-  - source: "Priss, U. (2006), Formal concept analysis in information science. Ann. Rev. Info. Sci. Tech., 40: 521-543. https://doi.org/10.1002/aris.1440400120, p.525"
+  - source: "Priss, U. (2006), Formal concept analysis in information science. Ann. Rev. Info. Sci. Tech., 40: 521-543. p.525"
   - size:
     - objects: 5
     - attributes: 6
   - language: English
   - description: famous animals and their characteristics
-
-livingbeings_de.cxt:
-  - title: Lebewesen und Wasser
-  - source: "Ganter, B., & Wille, R. (1996). Formale Begriffsanalyse. Springer. https://doi.org/10.1007/978-3-642-61450-7, p. 18"
-  - size:
-    - objects: 8
-    - attributes: 9
-  - language: German
-  - description: conditions different living beings need
-  - note: German version of livingbeings_en.cxt
 
 livingbeings_en.cxt:
   - title: Living Beings and Water
@@ -74,7 +64,25 @@ livingbeings_en.cxt:
     - attributes: 9
   - language: English
   - description: conditions different living beings need
-  - note: English version of livingbeings_de.cxt
+
+livingbeings_de.cxt:
+  - title: Lebewesen und Wasser
+  - source: "Ganter, B., & Wille, R. (1996). Formale Begriffsanalyse. Springer. p. 18"
+  - size:
+    - objects: 8
+    - attributes: 9
+  - language: German
+  - description: conditions different living beings need
+  - note: German version of livingbeings_en.cxt
+
+missmarple_en.cxt:
+  - title: Methods of murder in Miss Marple novels
+  - source: "Schott, B. (2004). Schotts Sammelsurium. Bloomsbury, Berlin"
+  - size:
+    - objects: 12
+    - attributes: 6
+  - language: English
+  - description: methods of murder in Miss Marple novels (not short stories!)
 
 missmarple_de.cxt:
   - title: Mordmethoden in Miss-Marple-Romanen
@@ -84,16 +92,7 @@ missmarple_de.cxt:
     - attributes: 6
   - language: German / English
   - description: methods of murder in Miss Marple novels (not short stories!)
-
-  missmarple_en.cxt:
-  - title: Methods of murder in Miss Marple novels
-  - source: "Schott, B. (2004). Schotts Sammelsurium. Bloomsbury, Berlin"
-  - size:
-    - objects: 12
-    - attributes: 6
-  - language: English
-  - description: methods of murder in Miss Marple novels (not short stories!)
-  - note: English version of missmarple_de.cxt
+  - note: German version of missmarple_en.cxt
 
 music_en.cxt:
   - title: Music
@@ -104,15 +103,14 @@ music_en.cxt:
   - language: English
   - description: music and their characteristics
 
-officesupplies_de.cxt:
-  - title: Bürobedarf
-  - source: "Ganter, B., & Wille, R. (1996). Formale Begriffsanalyse. Springer. https://doi.org/10.1007/978-3-642-61450-7, p. 25"
+newzealand_en.cxt:
+  - title: New Zealand Leasure
+  - source: "DK Eyewitness Travel Guide New Zealand. Dorling Kindersley Publishing Inc. 2001."
   - size:
-    - objects: 8
-    - attributes: 5
-  - language: German
-  - description: Service offers of an office supplies business
-  - note: German version of officesupplies_en.cxt
+    - objects: 13
+    - attributes: 8
+  - language: English
+  - description: Places in New Zealand and offered activities
 
 officesupplies_en.cxt:
   - title: Office Supplies
@@ -121,8 +119,17 @@ officesupplies_en.cxt:
     - objects: 8
     - attributes: 5
   - language: English
-  - description: Service offers of an office supplies business
-  - note: English version of officesupplies_de.cxt
+  - description: service offers of an office supplies business
+
+officesupplies_de.cxt:
+  - title: Bürobedarf
+  - source: "Ganter, B., & Wille, R. (1996). Formale Begriffsanalyse. Springer. p. 25"
+  - size:
+    - objects: 8
+    - attributes: 5
+  - language: German
+  - description: service offers of an office supplies business
+  - note: German version of officesupplies_en.cxt
 
 planets_en.cxt:
   - title: Planets
@@ -131,7 +138,7 @@ planets_en.cxt:
     - objects: 9
     - attributes: 7
   - language: English
-  - description: Size and distance of planets
+  - description: size and distance of planets
 
 seasoningplanner_de.cxt:
   - title: Gewürzplaner
@@ -148,32 +155,5 @@ tealady.cxt:
   - size:
     - objects: 18
     - attributes: 14
-  - language: /
-  - description: Participation of social events by some ladies in Old City
-
-famousanimals_en.cxt:
-  - title: Famous Animals
-  - source: "Priss, U. (2006), Formal concept analysis in information science. Ann. Rev. Info. Sci. Tech., 40: 521-543. https://doi.org/10.1002/aris.1440400120"
-  - size: 
-    - objects: 5
-    - attributes: 6
-  - language: English
-  - description: Description of famous animals 
-
-newzealand_en.cxt:
-  - title: New Zealand Leasure
-  - source: "DK Eyewitness Travel Guide New Zealand. Dorling Kindersley Publishing Inc. 2001."
-  - size:
-    - objects: 13
-    - attributes: 8
-  - language: English
-  - description: Places in New Zealand and offered activities
-  
-animals_en.cxt:
-  - title: animals
-  - source: "A. Pogel, T. Hanan, L. Miller: Visualization of concept lattices using weight functions. In: H. D. Pfeiffer, K. E. Wolff, H. S. Delugach (eds.): Conceptual structures at work. Shaker Verlag, Aachen 2004, 1–14."
-  - size:
-    - objects: 35
-    - attributes: 11
-  - language: English
-  - description: Attributes different animals have
+  - language: -
+  - description: participation of social events by some ladies in Old City
