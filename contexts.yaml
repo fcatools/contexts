@@ -1,7 +1,16 @@
 ---
+animals_en.cxt:
+  - title: Animals
+  - source: "Ganter, B., Wille, R., & Stumme, G. (2005). Formal Concept Analysis: Foundations and Applications (Vol. 3626). Springer, p. 27"
+  - size:
+    - objects: 35
+    - attributes: 11
+  - language: English
+  - description: animals and their characteristics
+
 bodiesofwater_en.cxt:
   - title: Bodies of water
-  - source: "Wille, Rudolf (1984). Liniendiagramme hierarchischer Begriffssysteme. Studien zur Klassifikation. Indeks Verlag"
+  - source: "Wille, R. (1984). Liniendiagramme hierarchischer Begriffssysteme. Studien zur Klassifikation. Indeks Verlag"
   - size:
     - objects: 8
     - attributes: 6
@@ -11,7 +20,7 @@ bodiesofwater_en.cxt:
 
 bodiesofwater_de.cxt:
   - title: Gewässer
-  - source: "Wille, Rudolf (1984). Liniendiagramme hierarchischer Begriffssysteme. Studien zur Klassifikation. Indeks Verlag"
+  - source: "Wille, R. (1984). Liniendiagramme hierarchischer Begriffssysteme. Studien zur Klassifikation. Indeks Verlag"
   - size:
     - objects: 8
     - attributes: 6
@@ -20,13 +29,109 @@ bodiesofwater_de.cxt:
 
 driveconcepts_en.cxt:
   - title: Drive Concepts
-  - source: "Ganter, Bernhard & Wille, Rudolf (1999). Formal Concept analysis. Springer, p. 39"
+  - source: "Ganter, B., & Wille, R. (1999). Formal Concept analysis. Springer, p. 39"
   - size:
     - objects: 5
     - attributes: 25
   - language: English
   - description: Drive concepts for motorcars
   - note: "Derived from a table on page 402 in the book Schlag nach! 100000 Tatsachen aus allen Wissensgebieten. 13. Auflage. Meyers Lexikonverlag, 1988"
+
+driveconcepts_de.cxt:
+  - title: Drive Concepts
+  - source: "Ganter, B., & Wille, R. (1996). Formale Begriffsanalyse. Springer. https://doi.org/10.1007/978-3-642-61450-7, p. 39"
+  - size:
+    - objects: 5
+    - attributes: 25
+  - language: German
+  - description: Drive concepts for motorcars
+  - note: German version of driveconcepts_en.cxt
+
+famous_animals_en.cxt:
+  - title: Famous Animals
+  - source: "Priss, U. (2006), Formal concept analysis in information science. Ann. Rev. Info. Sci. Tech., 40: 521-543. https://doi.org/10.1002/aris.1440400120, p.525"
+  - size:
+    - objects: 5
+    - attributes: 6
+  - language: English
+  - description: famous animals and their characteristics
+
+livingbeings_de.cxt:
+  - title: Lebewesen und Wasser
+  - source: "Ganter, B., & Wille, R. (1996). Formale Begriffsanalyse. Springer. https://doi.org/10.1007/978-3-642-61450-7, p. 18"
+  - size:
+    - objects: 8
+    - attributes: 9
+  - language: German
+  - description: conditions different living beings need
+  - note: German version of livingbeings_en.cxt
+
+livingbeings_en.cxt:
+  - title: Living Beings and Water
+  - source: "Ganter, B., & Wille, R. (1999). Formal Concept analysis. Springer, p. 18"
+  - size:
+    - objects: 8
+    - attributes: 9
+  - language: English
+  - description: conditions different living beings need
+  - note: English version of livingbeings_de.cxt
+
+missmarple_de.cxt:
+  - title: Mordmethoden in Miss-Marple-Romanen
+  - source: "Schott, B. (2004). Schotts Sammelsurium. Bloomsbury, Berlin"
+  - size:
+    - objects: 12
+    - attributes: 6
+  - language: German / English
+  - description: methods of murder in Miss Marple novels (not short stories!)
+
+  missmarple_en.cxt:
+  - title: Methods of murder in Miss Marple novels
+  - source: "Schott, B. (2004). Schotts Sammelsurium. Bloomsbury, Berlin"
+  - size:
+    - objects: 12
+    - attributes: 6
+  - language: English
+  - description: methods of murder in Miss Marple novels (not short stories!)
+  - note: English version of missmarple_de.cxt
+
+music_en.cxt:
+  - title: Music
+  - source: "Ganter, B., Wille, R., & Stumme, G. (2005). Formal Concept Analysis: Foundations and Applications (Vol. 3626). Springer, p. 22"
+  - size:
+    - objects: 31
+    - attributes: 11
+  - language: English
+  - description: music and their characteristics
+
+officesupplies_de.cxt:
+  - title: Bürobedarf
+  - source: "Ganter, B., & Wille, R. (1996). Formale Begriffsanalyse. Springer. https://doi.org/10.1007/978-3-642-61450-7, p. 25"
+  - size:
+    - objects: 8
+    - attributes: 5
+  - language: German
+  - description: Service offers of an office supplies business
+  - note: German version of officesupplies_en.cxt
+
+officesupplies_en.cxt:
+  - title: Office Supplies
+  - source: "Ganter, B., & Wille, R. (1999). Formal Concept analysis. Springer, p. 25"
+  - size:
+    - objects: 8
+    - attributes: 5
+  - language: English
+  - description: Service offers of an office supplies business
+  - note: English version of officesupplies_de.cxt
+
+planets_en.cxt:
+  - title: Planets
+  - source: "Anggraini, D. (2011). Analisis Perubahan Kelompok Berdasarkan Perubahan Nilai Jual Pada Bloomberg Market Data dengan Menggunakan Formal Concept Analysis, p. 7"
+  - size:
+    - objects: 9
+    - attributes: 7
+  - language: English
+  - description: Size and distance of planets
 
 seasoningplanner_de.cxt:
   - title: Gewürzplaner
@@ -37,36 +142,9 @@ seasoningplanner_de.cxt:
   - language: German
   - description: spices and herbs together and the meals they match
 
-livingbeings_en.cxt:
-  - title: Living Beings and Water
-  - source: "Ganter, Bernhard & Wille, Rudolf (1999). Formal Concept analysis. Springer, p. 18"
-  - size:
-    - objects: 8
-    - attributes: 9
-  - language: English
-  - description: conditions different living beings need
-
-missmarple_de.cxt:
-  - title: Mordmethoden in Miss-Marple-Romanen
-  - source: "Schott, Ben (2004). Schotts Sammelsurium. Bloomsbury, Berlin"
-  - size:
-    - objects: 12
-    - attributes: 6
-  - language: German / English
-  - description: methods of murder in Miss Marple novels (not short stories!)
-
-officesupplies_en.cxt:
-  - title: Office Supplies
-  - source: "Ganter, Bernhard & Wille, Rudolf (1999). Formal Concept analysis. Springer, p. 25"
-  - size:
-    - objects: 8
-    - attributes: 5
-  - language: English
-  - description: Service offers of an office supplies business
-
 tealady.cxt:
   - title: Tea Ladies
-  - source: "Wille, Rudolf (1992). Concept Lattices and Conceptual Knowledge Systems. Computers & Mathematics with Applications, 23, 6-9, p. 493-515"
+  - source: "Wille, R. (1992). Concept Lattices and Conceptual Knowledge Systems. Computers & Mathematics with Applications, 23, 6-9, p. 493-515"
   - size:
     - objects: 18
     - attributes: 14
