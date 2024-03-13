@@ -23,7 +23,7 @@ example, in Python 3 you could do:
 import urllib.request
 
 url = "https://github.com/fcatools/contexts/raw/main/contexts/livingbeings_en.cxt"
-context = urllib.request.urlopen(url).read().decode()
+context = urllib.request.urlopen(url).read().decode("utf-8")
 ```
 
 ## How to contribute contexts
