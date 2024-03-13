@@ -3,7 +3,9 @@
 This repository contains a collection of formal contexts to pursue
 [Formal Concept Analysis](https://upriss.github.io/fca/fca.html).
 
-The metadata for [the contexts](https://github.com/fcatools/contexts/tree/main/contexts) is contained in [this YAML file](contexts.yaml).
+The metadata for [the
+contexts](https://github.com/fcatools/contexts/tree/main/contexts) is
+contained in [this YAML file](contexts.yaml).
 
 More contexts can be found in the repository for
 [ConExp-CLJ](https://github.com/tomhanika/conexp-clj/tree/dev/testing-data),
@@ -38,14 +40,16 @@ following criteria:
 
 If you think your context is suitable, then proceed as follows:
 
-1. [Fork this repository](/fcatools/contexts/fork) and make the
-   following changes in your fork:
-   1. Add your ASCII-encoded CXT file to the [contexts](contexts)
+1. [Fork this repository](https://github.com/fcatools/contexts/fork)
+   and make the following changes in your fork:
+   1. Add your ASCII-encoded CXT file to the
+      [contexts](https://github.com/fcatools/contexts/tree/main/contexts)
       directory, using a meaningful name (English, all lowercase, with
       two letters indicating the [ISO 639 language
       code](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes)
       at the end, e.g., `bodiesofwater_de.cxt` for the German bodies
       of water context).
-   2. Describe your context in [contexts.yaml](contexts.yaml) following
-      the example of the other contexts. Try to be concise and precise.
+   2. Describe your context in [contexts.yaml](contexts.yaml)
+      following the example of the other contexts. Try to be concise
+      and precise.
 2. Make a pull request to merge your changes into this repository.
