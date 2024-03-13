@@ -3,7 +3,7 @@
 This repository contains a collection of formal contexts to pursue
 [Formal Concept Analysis](https://upriss.github.io/fca/fca.html).
 
-The metadata for [the contexts](contexts) is contained in [this YAML file](contexts.yaml).
+The metadata for [the contexts](https://github.com/fcatools/contexts/tree/main/contexts) is contained in [this YAML file](contexts.yaml).
 
 More contexts can be found in the repository for
 [ConExp-CLJ](https://github.com/tomhanika/conexp-clj/tree/dev/testing-data),
