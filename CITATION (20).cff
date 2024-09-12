@@ -1,0 +1,36 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: contexts
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Robert
+    family-names: Jäschke
+    email: robert.jaeschke@hu-berlin.de
+    affiliation: Humboldt-Universität zu Berlin
+    orcid: 'https://orcid.org/0000-0003-3271-9653'
+  - given-names: Angelina
+    family-names: Eckert
+  - given-names: Anna
+    family-names: Schwerdtel
+    affiliation: Humboldt-Universität zu Berlin
+repository-code: 'https://github.com/fcatools/contexts'
+abstract: >-
+  This repository contains a collection of formal contexts
+  to pursue Formal Concept Analysis.
+
+
+  The metadata for the contexts is contained in this YAML
+  file.
+
+
+  More contexts can be found in the repository for
+  ConExp-CLJ, the repository for the concepts Python module,
+  and on Uta Priss' page.
+license: CC0-1.0
+commit: 6adc703bcb89c5b97709ac7a60930e9c962cc0c2
+date-released: '2024-04-11'
