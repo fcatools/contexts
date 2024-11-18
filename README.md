@@ -58,11 +58,11 @@ If you think your context is suitable, then proceed as follows:
 
 The idea for the repository has been described in
 
-Hanika, T., Jäschke, R.: A Repository for Formal Contexts. In:
-Cabrera, I.P., Ferré, S., and Obiedkov, S. (eds.) *Conceptual
-Knowledge Structures*. pp. 182–197. Springer Nature Switzerland,
-Cham 2024.
-doi:[10.1007/978-3-031-67868-4_13](https://doi.org/10.1007/978-3-031-67868-4_13)
+> Hanika, T., Jäschke, R.: A Repository for Formal Contexts. In:
+> Cabrera, I.P., Ferré, S., and Obiedkov, S. (eds.) *Conceptual
+> Knowledge Structures*. pp. 182–197. Springer Nature Switzerland,
+> Cham 2024.
+> doi:[10.1007/978-3-031-67868-4_13](https://doi.org/10.1007/978-3-031-67868-4_13)
 
 The first meeting of the **working group** is scheduled for Friday,
 November 22, 2024 at 15:00 CET.
