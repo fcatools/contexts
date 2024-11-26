@@ -94,7 +94,7 @@ miss-marple/missmarple_de.cxt:
   description: methods of murder in Miss Marple novels (not short stories!)
   note: German version of missmarple_en.cxt
 
-music_en.cxt:
+music-characteristics/music_en.cxt:
   title: Music
   source: "Ganter, B., Wille, R., & Stumme, G. (2005). Formal Concept Analysis: Foundations and Applications (Vol. 3626). Springer, p. 22"
   size:
