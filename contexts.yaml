@@ -75,7 +75,7 @@ living-beings-and-water/livingbeings_de.cxt:
   description: conditions different living beings need
   note: German version of livingbeings_en.cxt
 
-missmarple_en.cxt:
+miss-marple/missmarple_en.cxt:
   title: Methods of murder in Miss Marple novels
   source: "Schott, B. (2004). Schotts Sammelsurium. Bloomsbury, Berlin"
   size:
@@ -84,7 +84,7 @@ missmarple_en.cxt:
   language: English
   description: methods of murder in Miss Marple novels (not short stories!)
 
-missmarple_de.cxt:
+miss-marple/missmarple_de.cxt:
   title: Mordmethoden in Miss-Marple-Romanen
   source: "Schott, B. (2004). Schotts Sammelsurium. Bloomsbury, Berlin"
   size:
