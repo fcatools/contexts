@@ -140,7 +140,7 @@ planets/planets_en.cxt:
   language: English
   description: size and distance of planets
 
-seasoningplanner_de.cxt:
+seasoning-planner/seasoningplanner_de.cxt:
   title: Gewürzplaner
   source: "Mahn, M. (2014). Gewürze: Das Standardwerk. Christian Verlag GmbH, München"
   size:
