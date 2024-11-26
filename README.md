@@ -5,7 +5,7 @@ This repository contains a collection of formal contexts to pursue
 
 The metadata for [the
 contexts](https://github.com/fcatools/contexts/tree/main/contexts) is
-contained in [this YAML file](contexts.yaml).
+contained in [this YAML file](merged-contexts-metadata.yaml).
 
 More contexts can be found in the repository for
 [ConExp-CLJ](https://github.com/tomhanika/conexp-clj/tree/dev/testing-data),
@@ -48,9 +48,12 @@ If you think your context is suitable, then proceed as follows:
       two letters indicating the [ISO 639 language code](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes)
       at the end, e.g., `bodiesofwater_de.cxt` for the German bodies
       of water context).
-   2. Describe your context in [contexts.yaml](contexts.yaml)
+   2. Describe your context in a metadata yaml file
       following the example of the other contexts. Try to be concise
       and precise.
+   3. Optionally: Merge the metadata automatically by running the included python script
+      ([scripts/merge_contexts_metadata.py](scripts/merge_contexts_metadata.py),
+      requires ```pyyaml```).
 2. Make a pull request to merge your changes into this repository.
 
 ## Further information
