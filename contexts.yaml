@@ -27,7 +27,7 @@ bodies-of-water/bodiesofwater_de.cxt:
   description: bodies of water and their properties
   note: German version of bodiesofwater_en.cxt
 
-driveconcepts_en.cxt:
+drive-concepts-for-motorcars/driveconcepts_en.cxt:
   title: Drive Concepts
   source: "Ganter, B., & Wille, R. (1999). Formal Concept analysis. Springer, p. 39"
   size:
@@ -37,7 +37,7 @@ driveconcepts_en.cxt:
   description: drive concepts for motorcars
   note: "Derived from a table on page 402 in the book Schlag nach! 100000 Tatsachen aus allen Wissensgebieten. 13. Auflage. Meyers Lexikonverlag, 1988"
 
-driveconcepts_de.cxt:
+drive-concepts-for-motorcars/driveconcepts_de.cxt:
   title: Drive Concepts
   source: "Ganter, B., & Wille, R. (1996). Formale Begriffsanalyse. Springer. p. 39"
   size:
