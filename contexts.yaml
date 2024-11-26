@@ -112,7 +112,7 @@ new-zealand-activities/newzealand_en.cxt:
   language: English
   description: Places in New Zealand and offered activities
 
-officesupplies_en.cxt:
+office-supplies-and-services/officesupplies_en.cxt:
   title: Office Supplies
   source: "Ganter, B., & Wille, R. (1999). Formal Concept analysis. Springer, p. 25"
   size:
@@ -121,7 +121,7 @@ officesupplies_en.cxt:
   language: English
   description: service offers of an office supplies business
 
-officesupplies_de.cxt:
+office-supplies-and-services/officesupplies_de.cxt:
   title: Bürobedarf
   source: "Ganter, B., & Wille, R. (1996). Formale Begriffsanalyse. Springer. p. 25"
   size:
