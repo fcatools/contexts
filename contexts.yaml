@@ -47,7 +47,7 @@ drive-concepts-for-motorcars/driveconcepts_de.cxt:
   description: drive concepts for motorcars
   note: German version of driveconcepts_en.cxt
 
-famous_animals_en.cxt:
+famous-animals/famous_animals_en.cxt:
   title: Famous Animals
   source: "Priss, U. (2006), Formal concept analysis in information science. Ann. Rev. Info. Sci. Tech., 40: 521-543. p.525"
   size:
