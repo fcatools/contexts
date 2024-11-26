@@ -5,7 +5,7 @@ This repository contains a collection of formal contexts to pursue
 
 The metadata for [the
 contexts](https://github.com/fcatools/contexts/tree/main/contexts) is
-contained in [this YAML file](contexts.yaml).
+contained in [this YAML file](merged-contexts-metadata.yaml).
 
 More contexts can be found in the repository for
 [ConExp-CLJ](https://github.com/tomhanika/conexp-clj/tree/dev/testing-data),
@@ -24,7 +24,7 @@ example, in Python 3 you could do:
 ```python
 import urllib.request
 
-url = "https://github.com/fcatools/contexts/raw/main/contexts/livingbeings_en.cxt"
+url = "https://github.com/fcatools/contexts/raw/main/contexts/living-beings-and-water/livingbeings_en.cxt"
 context = urllib.request.urlopen(url).read().decode("utf-8")
 ```
 
@@ -42,16 +42,18 @@ If you think your context is suitable, then proceed as follows:
 
 1. [Fork this repository](https://github.com/fcatools/contexts/fork)
    and make the following changes in your fork:
-   1. Add your ASCII-encoded CXT file to the
-      [contexts](https://github.com/fcatools/contexts/tree/main/contexts)
-      directory, using a meaningful name (English, all lowercase, with
-      two letters indicating the [ISO 639 language
-      code](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes)
+   1. Add a subfolder to the [contexts](https://github.com/fcatools/contexts/tree/main/contexts)
+      directory, and add your ASCII-encoded CXT file there.
+      Use a meaningful name for both (English, all lowercase, with
+      two letters indicating the [ISO 639 language code](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes)
       at the end, e.g., `bodiesofwater_de.cxt` for the German bodies
       of water context).
-   2. Describe your context in [contexts.yaml](contexts.yaml)
+   2. Describe your context in a metadata yaml file
       following the example of the other contexts. Try to be concise
       and precise.
+   3. Optionally: Merge the metadata automatically by running the included python script
+      ([scripts/merge_contexts_metadata.py](scripts/merge_contexts_metadata.py),
+      requires ```pyyaml```).
 2. Make a pull request to merge your changes into this repository.
 
 ## Further information

@@ -1,0 +1,8 @@
+music-characteristics/music_en.cxt:
+  title: Music
+  source: "Ganter, B., Wille, R., & Stumme, G. (2005). Formal Concept Analysis: Foundations and Applications (Vol. 3626). Springer, p. 22"
+  size:
+    objects: 31
+    attributes: 11
+  language: English
+  description: music and their characteristics

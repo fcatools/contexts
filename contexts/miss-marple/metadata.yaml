@@ -1,0 +1,18 @@
+miss-marple/missmarple_en.cxt:
+  title: Methods of murder in Miss Marple novels
+  source: "Schott, B. (2004). Schotts Sammelsurium. Bloomsbury, Berlin"
+  size:
+    objects: 12
+    attributes: 6
+  language: English
+  description: methods of murder in Miss Marple novels (not short stories!)
+
+miss-marple/missmarple_de.cxt:
+  title: Mordmethoden in Miss-Marple-Romanen
+  source: "Schott, B. (2004). Schotts Sammelsurium. Bloomsbury, Berlin"
+  size:
+    objects: 12
+    attributes: 6
+  language: German / English
+  description: methods of murder in Miss Marple novels (not short stories!)
+  note: German version of missmarple_en.cxt
