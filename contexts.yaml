@@ -149,7 +149,7 @@ seasoning-planner/seasoningplanner_de.cxt:
   language: German
   description: spices and herbs together and the meals they match
 
-tealady.cxt:
+tea-ladies/tealady.cxt:
   title: Tea Ladies
   source: "Wille, R. (1992). Concept Lattices and Conceptual Knowledge Systems. Computers & Mathematics with Applications, 23, 6-9, p. 493-515"
   size:
