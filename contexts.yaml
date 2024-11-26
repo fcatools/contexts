@@ -8,7 +8,7 @@ animals/animals_en.cxt:
   language: English
   description: animals and their characteristics
 
-bodiesofwater_en.cxt:
+bodies-of-water/bodiesofwater_en.cxt:
   title: Bodies of water
   source: "Wille, R. (1984). Liniendiagramme hierarchischer Begriffssysteme. Studien zur Klassifikation. Indeks Verlag"
   size:
@@ -17,7 +17,7 @@ bodiesofwater_en.cxt:
   language: English
   description: bodies of water and their properties
 
-bodiesofwater_de.cxt:
+bodies-of-water/bodiesofwater_de.cxt:
   title: Gewässer
   source: "Wille, R. (1984). Liniendiagramme hierarchischer Begriffssysteme. Studien zur Klassifikation. Indeks Verlag"
   size:
