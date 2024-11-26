@@ -131,7 +131,7 @@ office-supplies-and-services/officesupplies_de.cxt:
   description: service offers of an office supplies business
   note: German version of officesupplies_en.cxt
 
-planets_en.cxt:
+planets/planets_en.cxt:
   title: Planets
   source: "Anggraini, D. (2011). Analisis Perubahan Kelompok Berdasarkan Perubahan Nilai Jual Pada Bloomberg Market Data dengan Menggunakan Formal Concept Analysis, p. 7"
   size:
