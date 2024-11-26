@@ -1,0 +1,8 @@
+animals/animals_en.cxt:
+  title: Animals
+  source: "Ganter, B., Wille, R., & Stumme, G. (2005). Formal Concept Analysis: Foundations and Applications (Vol. 3626). Springer, p. 27"
+  size:
+    objects: 35
+    attributes: 11
+  language: English
+  description: animals and their characteristics

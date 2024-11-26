@@ -1,0 +1,18 @@
+office-supplies-and-services/officesupplies_en.cxt:
+  title: Office Supplies
+  source: "Ganter, B., & Wille, R. (1999). Formal Concept analysis. Springer, p. 25"
+  size:
+    objects: 8
+    attributes: 5
+  language: English
+  description: service offers of an office supplies business
+
+office-supplies-and-services/officesupplies_de.cxt:
+  title: Bürobedarf
+  source: "Ganter, B., & Wille, R. (1996). Formale Begriffsanalyse. Springer. p. 25"
+  size:
+    objects: 8
+    attributes: 5
+  language: German
+  description: service offers of an office supplies business
+  note: German version of officesupplies_en.cxt

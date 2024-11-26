@@ -1,0 +1,8 @@
+famous-animals/famous_animals_en.cxt:
+  title: Famous Animals
+  source: "Priss, U. (2006), Formal concept analysis in information science. Ann. Rev. Info. Sci. Tech., 40: 521-543. p.525"
+  size:
+    objects: 5
+    attributes: 6
+  language: English
+  description: famous animals and their characteristics
