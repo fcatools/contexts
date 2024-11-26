@@ -44,7 +44,7 @@ If you think your context is suitable, then proceed as follows:
    and make the following changes in your fork:
    1. Add a subfolder to the [contexts](https://github.com/fcatools/contexts/tree/main/contexts)
       directory, and add your ASCII-encoded CXT file there.
-      Using a meaningful name for both (English, all lowercase, with
+      Use a meaningful name for both (English, all lowercase, with
       two letters indicating the [ISO 639 language code](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes)
       at the end, e.g., `bodiesofwater_de.cxt` for the German bodies
       of water context).
