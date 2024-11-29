@@ -58,7 +58,7 @@ If you think your context is suitable, then proceed as follows:
 
 The repository is managed by a working group that communicates using a
 [mailing
-list](https://lists.cs.uni-kassel.de/postorius/lists/fca-repo.lists.cs.uni-kassel.de/)
+list](https://lists.cs.uni-kassel.de/postorius/lists/fca-repo.lists.cs.uni-kassel.de/).
 
 ## Further information
 
