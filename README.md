@@ -54,6 +54,12 @@ If you think your context is suitable, then proceed as follows:
       and precise.
 2. Make a pull request to merge your changes into this repository.
 
+## Working group
+
+The repository is managed by a working group that communicates using a
+[mailing
+list](https://lists.cs.uni-kassel.de/postorius/lists/fca-repo.lists.cs.uni-kassel.de/)
+
 ## Further information
 
 The idea for the repository has been described in
@@ -63,6 +69,3 @@ The idea for the repository has been described in
 > Knowledge Structures*. pp. 182–197. Springer Nature Switzerland,
 > Cham 2024.
 > doi:[10.1007/978-3-031-67868-4_13](https://doi.org/10.1007/978-3-031-67868-4_13)
-
-The first meeting of the **working group** is scheduled for Friday,
-November 22, 2024 at 15:00 CET.
