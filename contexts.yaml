@@ -1,5 +1,5 @@
 ---
-animals_en.cxt:
+animals/animals_en.cxt:
   title: Animals
   source: "Ganter, B., Wille, R., & Stumme, G. (2005). Formal Concept Analysis: Foundations and Applications (Vol. 3626). Springer, p. 27"
   size:
@@ -8,7 +8,7 @@ animals_en.cxt:
   language: English
   description: animals and their characteristics
 
-bodiesofwater_en.cxt:
+bodies-of-water/bodiesofwater_en.cxt:
   title: Bodies of water
   source: "Wille, R. (1984). Liniendiagramme hierarchischer Begriffssysteme. Studien zur Klassifikation. Indeks Verlag"
   size:
@@ -17,7 +17,7 @@ bodiesofwater_en.cxt:
   language: English
   description: bodies of water and their properties
 
-bodiesofwater_de.cxt:
+bodies-of-water/bodiesofwater_de.cxt:
   title: Gewässer
   source: "Wille, R. (1984). Liniendiagramme hierarchischer Begriffssysteme. Studien zur Klassifikation. Indeks Verlag"
   size:
@@ -27,7 +27,7 @@ bodiesofwater_de.cxt:
   description: bodies of water and their properties
   note: German version of bodiesofwater_en.cxt
 
-driveconcepts_en.cxt:
+drive-concepts-for-motorcars/driveconcepts_en.cxt:
   title: Drive Concepts
   source: "Ganter, B., & Wille, R. (1999). Formal Concept analysis. Springer, p. 39"
   size:
@@ -37,7 +37,7 @@ driveconcepts_en.cxt:
   description: drive concepts for motorcars
   note: "Derived from a table on page 402 in the book Schlag nach! 100000 Tatsachen aus allen Wissensgebieten. 13. Auflage. Meyers Lexikonverlag, 1988"
 
-driveconcepts_de.cxt:
+drive-concepts-for-motorcars/driveconcepts_de.cxt:
   title: Drive Concepts
   source: "Ganter, B., & Wille, R. (1996). Formale Begriffsanalyse. Springer. p. 39"
   size:
@@ -47,7 +47,7 @@ driveconcepts_de.cxt:
   description: drive concepts for motorcars
   note: German version of driveconcepts_en.cxt
 
-famous_animals_en.cxt:
+famous-animals/famous_animals_en.cxt:
   title: Famous Animals
   source: "Priss, U. (2006), Formal concept analysis in information science. Ann. Rev. Info. Sci. Tech., 40: 521-543. p.525"
   size:
@@ -56,7 +56,7 @@ famous_animals_en.cxt:
   language: English
   description: famous animals and their characteristics
 
-livingbeings_en.cxt:
+living-beings-and-water/livingbeings_en.cxt:
   title: Living Beings and Water
   source: "Ganter, B., & Wille, R. (1999). Formal Concept analysis. Springer, p. 18"
   size:
@@ -65,7 +65,7 @@ livingbeings_en.cxt:
   language: English
   description: conditions different living beings need
 
-livingbeings_de.cxt:
+living-beings-and-water/livingbeings_de.cxt:
   title: Lebewesen und Wasser
   source: "Ganter, B., & Wille, R. (1996). Formale Begriffsanalyse. Springer. p. 18"
   size:
@@ -75,7 +75,7 @@ livingbeings_de.cxt:
   description: conditions different living beings need
   note: German version of livingbeings_en.cxt
 
-missmarple_en.cxt:
+miss-marple/missmarple_en.cxt:
   title: Methods of murder in Miss Marple novels
   source: "Schott, B. (2004). Schotts Sammelsurium. Bloomsbury, Berlin"
   size:
@@ -84,7 +84,7 @@ missmarple_en.cxt:
   language: English
   description: methods of murder in Miss Marple novels (not short stories!)
 
-missmarple_de.cxt:
+miss-marple/missmarple_de.cxt:
   title: Mordmethoden in Miss-Marple-Romanen
   source: "Schott, B. (2004). Schotts Sammelsurium. Bloomsbury, Berlin"
   size:
@@ -94,7 +94,7 @@ missmarple_de.cxt:
   description: methods of murder in Miss Marple novels (not short stories!)
   note: German version of missmarple_en.cxt
 
-music_en.cxt:
+music-characteristics/music_en.cxt:
   title: Music
   source: "Ganter, B., Wille, R., & Stumme, G. (2005). Formal Concept Analysis: Foundations and Applications (Vol. 3626). Springer, p. 22"
   size:
@@ -103,7 +103,7 @@ music_en.cxt:
   language: English
   description: music and their characteristics
 
-newzealand_en.cxt:
+new-zealand-activities/newzealand_en.cxt:
   title: New Zealand Leasure
   source: "DK Eyewitness Travel Guide New Zealand. Dorling Kindersley Publishing Inc. 2001."
   size:
@@ -112,7 +112,7 @@ newzealand_en.cxt:
   language: English
   description: Places in New Zealand and offered activities
 
-officesupplies_en.cxt:
+office-supplies-and-services/officesupplies_en.cxt:
   title: Office Supplies
   source: "Ganter, B., & Wille, R. (1999). Formal Concept analysis. Springer, p. 25"
   size:
@@ -121,7 +121,7 @@ officesupplies_en.cxt:
   language: English
   description: service offers of an office supplies business
 
-officesupplies_de.cxt:
+office-supplies-and-services/officesupplies_de.cxt:
   title: Bürobedarf
   source: "Ganter, B., & Wille, R. (1996). Formale Begriffsanalyse. Springer. p. 25"
   size:
@@ -131,7 +131,7 @@ officesupplies_de.cxt:
   description: service offers of an office supplies business
   note: German version of officesupplies_en.cxt
 
-planets_en.cxt:
+planets/planets_en.cxt:
   title: Planets
   source: "Anggraini, D. (2011). Analisis Perubahan Kelompok Berdasarkan Perubahan Nilai Jual Pada Bloomberg Market Data dengan Menggunakan Formal Concept Analysis, p. 7"
   size:
@@ -140,7 +140,7 @@ planets_en.cxt:
   language: English
   description: size and distance of planets
 
-seasoningplanner_de.cxt:
+seasoning-planner/seasoningplanner_de.cxt:
   title: Gewürzplaner
   source: "Mahn, M. (2014). Gewürze: Das Standardwerk. Christian Verlag GmbH, München"
   size:
@@ -149,7 +149,7 @@ seasoningplanner_de.cxt:
   language: German
   description: spices and herbs together and the meals they match
 
-tealady.cxt:
+tea-ladies/tealady.cxt:
   title: Tea Ladies
   source: "Wille, R. (1992). Concept Lattices and Conceptual Knowledge Systems. Computers & Mathematics with Applications, 23, 6-9, p. 493-515"
   size:
