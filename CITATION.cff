@@ -16,11 +16,15 @@ authors:
   - given-names: Anna
     family-names: Schwerdtel
     affiliation: Humboldt-Universität zu Berlin
+  - given-names: Tobias
+    family-names: Hille
+    affiliation: University of Kassel
+    orcid: 'https://orcid.org/0000-0001-7813-9799'
 repository-code: 'https://github.com/fcatools/contexts'
 abstract: >-
-  This repository contains a collection of formal contexts to pursue
-  Formal Concept Analysis. The metadata for the contexts is contained
-  in the file contexts.yaml.
+  This repository contains a collection of formal contexts
+  to pursue Formal Concept Analysis. The metadata for the
+  contexts is contained in the file contexts.yaml.
 license: CC0-1.0
 commit: 6adc703bcb89c5b97709ac7a60930e9c962cc0c2
 date-released: '2024-04-11'
