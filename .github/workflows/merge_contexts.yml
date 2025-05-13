@@ -9,7 +9,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Merge
-        run: ${{ github.workspace }}/src/merge_contexts_yaml.py > contexts.yaml
+        run: ./src/merge_contexts_yaml.py > contexts.yaml
       - name: Commit
         run: |
           git config --global user.name 'rjoberon'
