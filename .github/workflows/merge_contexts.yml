@@ -14,5 +14,6 @@ jobs:
         run: |
           git config --global user.name 'rjoberon'
           git config --global user.email 'rjoberon@users.noreply.github.com'
-          git commit -am "Created merged file"
+          git add contexts.yaml
+          git commit -m "Created merged file"
           git push
