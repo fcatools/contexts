@@ -60,12 +60,30 @@ The repository is managed by a working group that communicates using a
 [mailing
 list](https://lists.cs.uni-kassel.de/postorius/lists/fca-repo.lists.cs.uni-kassel.de/).
 
-## Further information
+## Recommended Citations
 
-The idea for the repository has been described in
+If you would like to reference a **single dataset** from this
+repository, we suggest that you cite the source given in [the
+metadata](contexts.yaml). This is typically the scholarly work where
+the dataset was first used as a formal context or another publication
+where it was found.
+
+In addition, you can reference a **specific version** of a dataset
+using its versioned URL as follows:
+
+If you would like to reference **several datasets** from this
+repository or the repository itself, we suggest to (additionally) cite
+the article where the idea for the repository has first been
+described:
 
 > Hanika, T., Jäschke, R.: A Repository for Formal Contexts. In:
 > Cabrera, I.P., Ferré, S., and Obiedkov, S. (eds.) *Conceptual
 > Knowledge Structures*. pp. 182–197. Springer Nature Switzerland,
 > Cham 2024.
 > doi:[10.1007/978-3-031-67868-4_13](https://doi.org/10.1007/978-3-031-67868-4_13)
+
+You can also reference a **specific snapshot** of the repository on
+Zenodo.
+
+Further machine-readable citation information can be found in the file
+<file:CITATION.cff>.
