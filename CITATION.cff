@@ -1,6 +1,3 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
 title: contexts
 type: dataset
@@ -9,7 +6,7 @@ authors:
     family-names: Jäschke
     email: robert.jaeschke@hu-berlin.de
     affiliation: Humboldt-Universität zu Berlin
-    orcid: 'https://orcid.org/0000-0003-3271-9653'
+    orcid: https://orcid.org/0000-0003-3271-9653
   - given-names: Angelina
     family-names: Eckert
     affiliation: Humboldt-Universität zu Berlin
@@ -22,5 +19,9 @@ abstract: >-
   Formal Concept Analysis. The metadata for the contexts is contained
   in the file contexts.yaml.
 license: CC0-1.0
-commit: 6adc703bcb89c5b97709ac7a60930e9c962cc0c2
-date-released: '2024-04-11'
+version: v0.0.1-alpha
+commit: 90160ebba134803021ec3667d3789be001fef210
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15464115
+date-released: '2025-05-19'
