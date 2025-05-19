@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/15464116.svg)](https://zenodo.org/badge/latestdoi/15464116)
+
 # Formal Contexts
 
 This repository contains a collection of formal contexts to pursue
@@ -86,4 +88,4 @@ You can also reference a **specific snapshot** of the repository on
 Zenodo.
 
 Further machine-readable citation information can be found in the file
-<file:CITATION.cff>.
+[CITATION.cff](CITATION.cff).
