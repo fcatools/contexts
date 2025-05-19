@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/15464116.svg)](https://zenodo.org/badge/latestdoi/15464116)
+[![DOI](https://zenodo.org/badge/580832846.svg)](https://zenodo.org/badge/latestdoi/580832846)
 
 # Formal Contexts
 
