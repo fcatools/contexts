@@ -71,7 +71,8 @@ the dataset was first used as a formal context or another publication
 where it was found.
 
 In addition, you can reference a **specific version** of a dataset
-using its versioned URL as follows:
+[using its versioned
+URL](https://docs.github.com/en/repositories/working-with-files/using-files/getting-permanent-links-to-files).
 
 If you would like to reference **several datasets** from this
 repository or the repository itself, we suggest to (additionally) cite
@@ -84,8 +85,9 @@ described:
 > Cham 2024.
 > doi:[10.1007/978-3-031-67868-4_13](https://doi.org/10.1007/978-3-031-67868-4_13)
 
-You can also reference a **specific snapshot** of the repository on
-Zenodo.
+You can also reference a [**specific
+release**](https://github.com/fcatools/contexts/releases) of the
+[repository on Zenodo](https://zenodo.org/badge/latestdoi/580832846).
 
 Further machine-readable citation information can be found in the file
 [CITATION.cff](CITATION.cff).

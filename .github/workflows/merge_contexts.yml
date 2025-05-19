@@ -15,5 +15,5 @@ jobs:
           git config --global user.name 'rjoberon'
           git config --global user.email 'rjoberon@users.noreply.github.com'
           git add contexts.yaml
-          git commit -m "Created merged file"
+          git diff-index --quiet HEAD || git commit -m "Created merged file"
           git push
