@@ -37,7 +37,8 @@ following criteria:
 
 1. They should be about real things and not contain invented or random
    data.
-2. They should preferrably be small, that is, have not too many
+2. They should have been used in an FCA publication (or preprint).
+3. They should preferrably be small, that is, have not too many
    attributes and objects (each less than 100).
 
 If you think your context is suitable, then proceed as follows:
