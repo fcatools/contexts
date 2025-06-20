@@ -57,6 +57,20 @@ If you think your context is suitable, then proceed as follows:
       and precise.
 2. Make a pull request to merge your changes into this repository.
 
+If you want to reference the repository as primary location for a
+context that is part of a paper you want to submit to a conference or
+journal, the suggested process is as follows:
+
+1. Provide the context for the peer review process as supplementary
+   material or using an approach like https://anonymous.4open.science/
+   (especially for double-blind reviewing).
+2. When your paper gets accepted, submit your context as described
+   above. Please provide the link to the list of accepted papers of
+   the conference or some other evidence in your pull request.
+3. After merging of the pull request you have a stable link to your
+   context that you can include in the camera-ready version of your
+   paper..
+
 ## Working group
 
 The repository is managed by a working group that communicates using a
