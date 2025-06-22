@@ -69,7 +69,7 @@ journal, the suggested process is as follows:
    the conference or some other evidence in your pull request.
 3. After merging of the pull request you have a stable link to your
    context that you can include in the camera-ready version of your
-   paper..
+   paper.
 
 ## Working group
 
