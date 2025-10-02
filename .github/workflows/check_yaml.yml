@@ -1,0 +1,10 @@
+name: Validate-YAML
+on: [push]
+jobs:
+  validate-yaml:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Validate YAML file
+        run: yamllint ./contexts/
