@@ -13,16 +13,9 @@ animals_en.cxt:
 bodiesofwater_de.cxt:
   title: Gewässer
   source:
-  - >
-  Wille, R. (1984). Liniendiagramme hierarchischer
-  Begriffssysteme. Studien zur Klassifikation. Indeks Verlag, Figure
-  4
-  - >
-  Wille, R., & Kipke, U. (1987). Formale Begriffsanalyse erläutert
-  an einem Wortfeld. LDV-Forum, 5, Figure 1
-  - >
-  F. Hundsnurscher (1970). Neuere Methoden der Semantik. Max
-  Niemeyer Verlag, Tübingen
+  - "Wille, R. (1984). Liniendiagramme hierarchischer Begriffssysteme. Studien zur Klassifikation. Indeks Verlag, Figure 4"
+  - "Wille, R., & Kipke, U. (1987). Formale Begriffsanalyse erläutert an einem Wortfeld. LDV-Forum, 5, Figure 1"
+  - "F. Hundsnurscher: Neuere Methoden der Semantik. Max Niemeyer Verlag, Tübingen 1970"
   size:
   objects: 8
   attributes: 6
